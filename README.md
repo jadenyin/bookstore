@@ -3,7 +3,7 @@
 [![codecov](https://codecov.io/gh/DaSE-DBMS/bookstore/branch/master/graph/badge.svg)](https://codecov.io/gh/DaSE-DBMS/bookstore)
 
 ## 功能
-实现一个提供网上购书功能的网站后端。<br>
+实一个提供网上购书功能的网站后端。<br>
 网站支持书商在上面开商店，购买者可能通过网站购买。<br>
 买家和卖家都可以注册自己的账号。<br>
 一个卖家可以开一个或多个网上商店，
